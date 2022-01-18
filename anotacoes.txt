@@ -1,0 +1,4 @@
+Anotações importantes sobre o git e links úteis
+
+Donwload typora
+https://typora.softonic.com.br/download
